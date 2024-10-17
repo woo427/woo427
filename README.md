@@ -1,3 +1,4 @@
+### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 김지우 입니다!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woo427&layout=compact)
 
 <!--
