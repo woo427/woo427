@@ -1,6 +1,5 @@
 ### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 김지우 입니다!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woo427&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!--
 **woo427/woo427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
